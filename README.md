@@ -3,11 +3,15 @@
 This project is a **web-based AI application** that automatically generates captions for uploaded images using the **BLIP (Bootstrapping Language-Image Pre-training)** model. It combinesthe power of **Artificial Intelligence** with **Web Development** to create a seamless user experience.
 
 # Features
--> Upload any image through a user-friendly web interface
--> Generate intelligent captions using the BLIP (Bootstrapping Language-Image Pretraining) model
--> View and download the generated caption results
--> Enjoy a smooth and responsive front-end layout
--> Seamless integration of Python (Flask) with HTML for full-stack functionality
+Upload any image through a user-friendly web interface
+
+Generate intelligent captions using the BLIP (Bootstrapping Language-Image Pretraining) model
+
+View and download the generated caption results
+
+Enjoy a smooth and responsive front-end layout
+
+Seamless integration of Python (Flask) with HTML for full-stack functionality
 
 # Technologies Used
 AI Model:
